@@ -14,10 +14,9 @@
 
 ### Contact
 <a href="https://www.linkedin.com/in/ana-carolina-de-sousa-furtado/">
-  <img src="https://github.com/carolrolis/carolrolis/assets/126017853/ec2380d0-e02f-4d36-8170-304630dc26a8">
+  <img src="https://github.com/carolrolis/carolrolis/assets/126017853/2ca7ea94-b20e-42d4-855b-b699e7fdaaae" height="50">
 </a>
-Ana Carolina Furtado
 
 <br>
-<img src="https://github.com/carolrolis/carolrolis/assets/126017853/d79ed4c1-571d-4251-9054-f94dc8e8536c">
+<img src="https://github.com/carolrolis/carolrolis/assets/126017853/3098753e-fe91-4d93-85b9-b7d7fda705e3" height="50">
 
