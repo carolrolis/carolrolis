@@ -5,4 +5,4 @@
 
 ### About me
 * I'm currently studying Web Development and Design.
-* Codes: `JavaScript`, `HTML`, `CSS`
+* Code: `JavaScript`, `HTML`, `CSS`
