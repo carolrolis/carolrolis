@@ -6,8 +6,7 @@
 <img src="https://github.com/carolrolis/carolrolis/assets/126017853/0957bfc7-196b-4bc4-8978-42318c2f7aad" width="200">
 
 ### About me
-<img src="https://github.com/carolrolis/carolrolis/assets/126017853/26a6faed-db1f-42d5-b43d-2a7ee1b2e219" width="15">
- I'm currently studying Web Development and Design.
+<img src="https://github.com/carolrolis/carolrolis/assets/126017853/26a6faed-db1f-42d5-b43d-2a7ee1b2e219" width="15"> I'm currently studying Web Development and Design.
 <img src="https://github.com/carolrolis/carolrolis/assets/126017853/26a6faed-db1f-42d5-b43d-2a7ee1b2e219" width="15">
 
 
