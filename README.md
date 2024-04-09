@@ -1,7 +1,11 @@
 ## Hey there, I'm Carol!
 
-* Systems and Multimedia student at [Universidade Federal do Ceará](https://ufc.br)
-* Open to remote freelancing and volunteering work
+<img src="https://github.com/carolrolis/carolrolis/assets/126017853/cd37406c-134d-4240-8c3f-4656e04f5737" width="15"> Systems and Multimedia student at [Universidade Federal do Ceará](https://ufc.br)
+<img src="https://github.com/carolrolis/carolrolis/assets/126017853/cd37406c-134d-4240-8c3f-4656e04f5737" width="15">
+
+
+<img src="https://github.com/carolrolis/carolrolis/assets/126017853/cd37406c-134d-4240-8c3f-4656e04f5737" width="15"> Open to remote freelancing and volunteering work
+<img src="https://github.com/carolrolis/carolrolis/assets/126017853/cd37406c-134d-4240-8c3f-4656e04f5737" width="15">
 
 <img src="https://github.com/carolrolis/carolrolis/assets/126017853/0957bfc7-196b-4bc4-8978-42318c2f7aad" width="200">
 
