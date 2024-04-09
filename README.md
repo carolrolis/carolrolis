@@ -23,6 +23,6 @@
 <br>
 <img src="https://github.com/carolrolis/carolrolis/assets/126017853/00486baf-bddc-4b0d-950d-83dd3f493274" width="150" height="70">
 
-<br><br><br><br>
+<br><br><br>
 
 > I never am really satisfied that I understand anything; because, understand it well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand. - Ada Lovelace
