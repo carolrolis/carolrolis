@@ -19,6 +19,6 @@
 
 
 <a>
-  <img src="https://github.com/carolrolis/carolrolis/assets/126017853/0ec6cfbd-1355-491d-9562-127eccf533b6" height="50" width="100" alt="gmail">
+  <img src="https://github.com/carolrolis/carolrolis/assets/126017853/0ec6cfbd-1355-491d-9562-127eccf533b6" width="100" alt="gmail">
 </a>
 
