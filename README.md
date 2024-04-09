@@ -6,5 +6,3 @@
 ### About me
 * I'm currently studying Web Development and Design.
 * Codes: `JavaScript`, `HTML`, `CSS`
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolrolis&theme=jolly&show_icons=true)
