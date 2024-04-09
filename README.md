@@ -12,7 +12,7 @@
 <img src="https://github.com/carolrolis/carolrolis/assets/126017853/26a6faed-db1f-42d5-b43d-2a7ee1b2e219" width="15"> Code: `JavaScript`, `HTML`, `CSS`, `Processing`
 <img src="https://github.com/carolrolis/carolrolis/assets/126017853/26a6faed-db1f-42d5-b43d-2a7ee1b2e219" width="15">
 
-### Contact
+### Social
 <a href="https://www.linkedin.com/in/ana-carolina-de-sousa-furtado/">
   <img src="https://github.com/carolrolis/carolrolis/assets/126017853/2ca7ea94-b20e-42d4-855b-b699e7fdaaae" width="150" height="70">
 </a>
