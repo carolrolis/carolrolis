@@ -14,10 +14,10 @@
 
 ### Contact
 <a href="https://www.linkedin.com/in/ana-carolina-de-sousa-furtado/">
-  <img src="https://github.com/carolrolis/carolrolis/assets/126017853/2ca7ea94-b20e-42d4-855b-b699e7fdaaae" width="150" height="80">
+  <img src="https://github.com/carolrolis/carolrolis/assets/126017853/2ca7ea94-b20e-42d4-855b-b699e7fdaaae" width="150" height="70">
 </a>
 
 <br>
-<img src="https://github.com/carolrolis/carolrolis/assets/126017853/3098753e-fe91-4d93-85b9-b7d7fda705e3" width="150" height="80">
+<img src="https://github.com/carolrolis/carolrolis/assets/126017853/3098753e-fe91-4d93-85b9-b7d7fda705e3" width="150" height="70">
 
 
