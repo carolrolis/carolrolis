@@ -17,4 +17,5 @@
   <img src="https://github.com/carolrolis/carolrolis/assets/126017853/a766b2c6-e7de-4d80-8484-780bf8e7d9e2" height="40" alt="linkedin">
 </a>
 <br>
-<img src="https://github.com/carolrolis/carolrolis/assets/126017853/46bddb56-bcf6-4f2a-a080-5b2cac2a62d9" height="40" alt="discord">
+<img src="https://github.com/carolrolis/carolrolis/assets/126017853/46bddb56-bcf6-4f2a-a080-5b2cac2a62d9" height="40" alt="discord"> 
+#### carolrolis
