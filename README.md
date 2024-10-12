@@ -9,7 +9,7 @@
 <img src="https://github.com/carolrolis/carolrolis/assets/126017853/26a6faed-db1f-42d5-b43d-2a7ee1b2e219" width="15"> I'm currently studying Web Development and Systems Automation
 <img src="https://github.com/carolrolis/carolrolis/assets/126017853/26a6faed-db1f-42d5-b43d-2a7ee1b2e219" width="15">
 
-<img src="https://github.com/carolrolis/carolrolis/assets/126017853/26a6faed-db1f-42d5-b43d-2a7ee1b2e219" width="15"> Code: `JavaScript`, `HTML`, `CSS`, `Python`
+<img src="https://github.com/carolrolis/carolrolis/assets/126017853/26a6faed-db1f-42d5-b43d-2a7ee1b2e219" width="15"> Code: `JavaScript`, `Python`, `C++`, `Java`
 <img src="https://github.com/carolrolis/carolrolis/assets/126017853/26a6faed-db1f-42d5-b43d-2a7ee1b2e219" width="15">
 
 ### Socials
