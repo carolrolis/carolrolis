@@ -2,7 +2,7 @@
 
 <img src="https://github.com/carolrolis/carolrolis/assets/126017853/0957bfc7-196b-4bc4-8978-42318c2f7aad" width="200">
 
-* Systems and Multimedia student at [Universidade Federal do Ceará](https://ufc.br)
+* Systems and Multimedia student at <a href="https://ufc.br" target="_blank">Universidade Federal do Ceará</a>
 * Open to remote freelancing and volunteering work
 
 ### About me
