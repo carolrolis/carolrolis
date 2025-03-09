@@ -12,6 +12,8 @@
 <img src="https://github.com/carolrolis/carolrolis/assets/126017853/26a6faed-db1f-42d5-b43d-2a7ee1b2e219" width="15"> Code: `JavaScript`, `HTML/CSS`, `C++(Arduino)`
 <img src="https://github.com/carolrolis/carolrolis/assets/126017853/26a6faed-db1f-42d5-b43d-2a7ee1b2e219" width="15">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolrolis)](https://github.com/carolrolis/github-readme-stats)
+
 ### Socials
 
 <a href="https://www.linkedin.com/in/ana-carolina-de-sousa-furtado/">
