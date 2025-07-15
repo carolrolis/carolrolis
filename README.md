@@ -9,7 +9,7 @@
 <img src="https://github.com/carolrolis/carolrolis/assets/126017853/26a6faed-db1f-42d5-b43d-2a7ee1b2e219" width="15"> I'm currently studying Web Development and Systems Automation
 <img src="https://github.com/carolrolis/carolrolis/assets/126017853/26a6faed-db1f-42d5-b43d-2a7ee1b2e219" width="15">
 
-<img src="https://github.com/carolrolis/carolrolis/assets/126017853/26a6faed-db1f-42d5-b43d-2a7ee1b2e219" width="15"> Code: `JavaScript`, `HTML/CSS`, `C++(Arduino)`
+<img src="https://github.com/carolrolis/carolrolis/assets/126017853/26a6faed-db1f-42d5-b43d-2a7ee1b2e219" width="15"> Code: `React.TS`, `TailwindCSS`, `C++(Arduino)`
 <img src="https://github.com/carolrolis/carolrolis/assets/126017853/26a6faed-db1f-42d5-b43d-2a7ee1b2e219" width="15">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolrolis&layout=compact&theme=jolly)
